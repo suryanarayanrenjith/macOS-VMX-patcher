@@ -1,0 +1,18 @@
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\bin\Debug\net6.0-windows\macOS VMX Patcher.exe
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\bin\Debug\net6.0-windows\macOS VMX Patcher.deps.json
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\bin\Debug\net6.0-windows\macOS VMX Patcher.runtimeconfig.json
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\bin\Debug\net6.0-windows\macOS VMX Patcher.dll
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\bin\Debug\net6.0-windows\macOS VMX Patcher.pdb
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\obj\Debug\net6.0-windows\macOS VMX Patcher.csproj.AssemblyReference.cache
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\obj\Debug\net6.0-windows\macOS_VMX_Patcher.Form1.resources
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\obj\Debug\net6.0-windows\macOS VMX Patcher.csproj.GenerateResource.cache
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\obj\Debug\net6.0-windows\macOS VMX Patcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\obj\Debug\net6.0-windows\macOS VMX Patcher.AssemblyInfoInputs.cache
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\obj\Debug\net6.0-windows\macOS VMX Patcher.AssemblyInfo.cs
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\obj\Debug\net6.0-windows\macOS VMX Patcher.csproj.CoreCompileInputs.cache
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\obj\Debug\net6.0-windows\macOS VMX Patcher.dll
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\obj\Debug\net6.0-windows\refint\macOS VMX Patcher.dll
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\obj\Debug\net6.0-windows\macOS VMX Patcher.pdb
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\obj\Debug\net6.0-windows\macOS VMX Patcher.genruntimeconfig.cache
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\obj\Debug\net6.0-windows\ref\macOS VMX Patcher.dll
+C:\Users\Surya PC\OneDrive\Desktop\macOS VMX Patcher\obj\Debug\net6.0-windows\macOS_VMX_Patcher.Properties.Resources.resources
