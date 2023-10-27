@@ -2,14 +2,14 @@
 <img src="/VMware%20Patcher.jpg?raw=true" width="100" align="right">
 A tool for automatically patching your macOS VMware virtual machine (.vmx file) for easy install of your macOS operating system. 
 
-## Installation
+## How to Download
 
-Tool is available in the Releases section, please note that this tool only works in windows.
+My tool is available in the [Releases](https://github.com/suryanarayanrenjith/macOS-VMX-patcher/releases) section, please note that this tool only runs in windows.
 
 ## Prerequisites
 Since my tool is written in C#, .NET 6.0 Desktop Runtime is required in order to run this tool. You can download it from this 
 [link.](https://download.visualstudio.microsoft.com/download/pr/83d32568-c5a2-4117-9591-437051785f41/e75171da01b1fa5c796660dc4b96beed/windowsdesktop-runtime-6.0.23-win-x64.exe ".NET 6.0 Desktop Runtime")
-## How to use
+## How to Use
 1) Choose your .vmx file from the folder where you installed your virtual machine.
 2) Choose your CPU (Intel/AMD).
 3) Patch!\
